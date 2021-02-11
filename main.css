@@ -1,0 +1,77 @@
+/*
+Team DNA (Nurdaulet Kaishibayev, David Tang, Anson Wong)      
+IntroCS pd7 sec11
+HW05 -- Stuylin'
+2021-02-11
+*/
+
+html /* I wanted the entire webpage to be colored navy blue, so the tag is html */
+{
+    background-color: #020014;
+}
+
+
+h1
+{
+    font-size: 75px;
+    font-style: oblique;
+    font-family: fantasy;
+    outline-style: double;
+    outline-color: white;
+    color: white;
+    margin: 10px;
+}
+
+
+h2
+{
+    color: white;
+    font-style: oblique;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin: 10px;
+}
+
+
+.paragraph    /* Class Elements for specific parts start with ".tag" */
+{
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    font-style: normal;
+    margin: 10px;
+}
+
+
+h3
+{
+    color: white;
+    font-style: oblique;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin: 10px;
+}
+
+
+a
+{
+    color:red;
+    padding: 10px;
+    padding-left: 0px;
+    font-size: 18px;
+    font-family: serif;
+    font-style: normal;
+    margin: 10px;
+}
+
+
+.pic
+{
+    max-width: 100%;
+    max-height: 100%;
+    border: 16px;
+    border-color: white;
+    border-style: ridge;
+    margin: 10px;
+}
+
