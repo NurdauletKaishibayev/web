@@ -5,13 +5,13 @@ HW05 -- Stuylin'
 2021-02-11
 */
 
-html /* I wanted the entire webpage to be colored navy blue, so the tag is html */
+html /* I wanted the entire webpage to be colored navy blue, so the tag is html (You can use Hexcodes!) */
 {
     background-color: #020014;
 }
 
 
-h1
+h1 /* By using the h1 tag, I am able to modify ALL OF THE h1 headings at once */
 {
     font-size: 75px;
     font-style: oblique;
@@ -65,7 +65,7 @@ a
 }
 
 
-.pic
+.pic  /* Class Elements for specific parts start with ".tag". For this one I assigned pictures */
 {
     max-width: 100%;
     max-height: 100%;
